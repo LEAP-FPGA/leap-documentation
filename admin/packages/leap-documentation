@@ -5,3 +5,4 @@ Description=LEAP documentation
 Name=leap-documentation
 Tag=HEAD
 CSN=CSN-leap-documentation-0
+Lock=asim-leap-documentation
